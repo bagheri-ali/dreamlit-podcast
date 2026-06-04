@@ -7,7 +7,7 @@
     <description>Soothing bedtime stories featuring Pip the hedgehog in a magical moonlit meadow. Calm your little one to sleep with gentle storytelling and peaceful music. New story every day!</description>
     <link>https://www.youtube.com/@PipsMoonlitMeadow</link>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 17:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 17:00:18 GMT</lastBuildDate>
     <itunes:author>Pip's Moonlit Meadow</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Kids &amp; Family"/>
@@ -21,6 +21,19 @@
       <title>Pip's Moonlit Meadow — Bedtime Stories for Kids</title>
       <link>https://www.youtube.com/@PipsMoonlitMeadow</link>
     </image>
+    <item>
+      <title>Pip and the Rainy Night Burrow</title>
+      <description>🌙 Pip and the Rainy Night Burrow ✨ | Bedtime Story for Kids | Sleep Story for Children
+
+Welcome to Pip's Moonlit Meadow — the coziest place in the whole wide world. Tonight, little Pip the hedgehog snuggles deep inside his warm burrow while the rain falls softly outside. Listen to the pitter-patter on the leaves, smell the sweet petrichor drifting through the meadow, and drift gently off to sleep alongside Pip.
+
+This soothing bedtime story is perfect for toddlers and young children aged 2–6 who </description>
+      <enclosure url="https://bagheri-ali.github.io/dreamlit-podcast/pip_1780545603.mp3" length="6474543" type="audio/mpeg"/>
+      <guid isPermaLink="false">db49fe20887cbfce8b8326f7216e3ce8</guid>
+      <pubDate>Thu, 04 Jun 2026 04:00:03 GMT</pubDate>
+      <itunes:duration>00:10:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Pip Follows the River of Stars</title>
       <description>🌙 Pip Follows the River of Stars ✨ | Bedtime Story for Kids | Sleep Story for Children

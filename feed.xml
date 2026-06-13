@@ -7,7 +7,7 @@
     <description>Soothing bedtime stories featuring Pip the hedgehog in a magical moonlit meadow. Calm your little one to sleep with gentle storytelling and peaceful music. New story every day!</description>
     <link>https://www.youtube.com/@PipsMoonlitMeadow</link>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:00:21 GMT</lastBuildDate>
     <itunes:author>Pip's Moonlit Meadow</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Kids &amp; Family"/>
@@ -21,6 +21,19 @@
       <title>Pip's Moonlit Meadow — Bedtime Stories for Kids</title>
       <link>https://www.youtube.com/@PipsMoonlitMeadow</link>
     </image>
+    <item>
+      <title>Pip and the Dancing Lights</title>
+      <description>🌙 Pip and the Dancing Lights ✨ | Bedtime Story for Kids | Sleep Story for Children
+
+Tonight, join little Pip — the tiniest, coziest hedgehog in all the meadow — as he curls up in the soft grass and watches the most magical thing he has ever seen... the northern lights dancing slowly across the sky, just for him.
+
+This is a soothing, no-ads bedtime sleep story made especially for little ones aged 2–6. Perfect for winding down after a long day, this gentle tale from Pip's Moonlit Meadow is filled </description>
+      <enclosure url="https://bagheri-ali.github.io/dreamlit-podcast/pip_1781323203.mp3" length="7467743" type="audio/mpeg"/>
+      <guid isPermaLink="false">42ce976031f3451f4d119d76bf41f493</guid>
+      <pubDate>Sat, 13 Jun 2026 04:00:03 GMT</pubDate>
+      <itunes:duration>00:12:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Pip and the Mirror Lake</title>
       <description>🌙 Pip and the Mirror Lake ✨ | Bedtime Story for Kids | Sleep Story for Children

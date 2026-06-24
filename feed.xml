@@ -7,7 +7,7 @@
     <description>Soothing bedtime stories featuring Pip the hedgehog in a magical moonlit meadow. Calm your little one to sleep with gentle storytelling and peaceful music. New story every day!</description>
     <link>https://www.youtube.com/@PipsMoonlitMeadow</link>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 17:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:00:27 GMT</lastBuildDate>
     <itunes:author>Pip's Moonlit Meadow</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Kids &amp; Family"/>
@@ -21,6 +21,21 @@
       <title>Pip's Moonlit Meadow — Bedtime Stories for Kids</title>
       <link>https://www.youtube.com/@PipsMoonlitMeadow</link>
     </image>
+    <item>
+      <title>Pip and the Little Lost Lantern</title>
+      <description>🌙 Pip and the Little Lost Lantern ✨ | Bedtime Story for Kids | Sleep Story for Children
+
+Welcome to Pip's Moonlit Meadow — the softest, sleepiest place in the whole wide world. 🦔✨
+
+Tonight, little Pip the hedgehog discovers something magical left behind in the meadow grass... a warm, glowing lantern from a kind and friendly traveller. Join Pip as he follows its gentle golden light through the quiet meadow, past the sleepy wildflowers, and all the way home to his cosy bed.
+
+This soothing bedtime </description>
+      <enclosure url="https://bagheri-ali.github.io/dreamlit-podcast/pip_1782273603.mp3" length="8515758" type="audio/mpeg"/>
+      <guid isPermaLink="false">0c3258b534799cde040f8ea32c5c8eec</guid>
+      <pubDate>Wed, 24 Jun 2026 04:00:03 GMT</pubDate>
+      <itunes:duration>00:14:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Pip and the Mole Who Maps the Underground Stars</title>
       <description>🌙 Pip and the Mole Who Maps the Underground Stars ✨ | Bedtime Story for Kids | Sleep Story for Children
